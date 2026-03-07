@@ -1,3 +1,5 @@
+English | [中文](./README.zh-CN.md)
+
 # agent-docker-mcp 🐳
 
 > The project is a lightweight & refactored version of [Agent-sandbox-platform](https://github.com/fyerfyer/Agent-sandbox-platform).
